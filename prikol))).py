@@ -6,14 +6,6 @@ app = QApplication([])
 window = QWidget()
 
 
-
-
-
-
-
-
-
-
 products_names = QListWidget()
 products_text = QTextEdit()
 product_line = QLineEdit()
